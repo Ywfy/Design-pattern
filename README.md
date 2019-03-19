@@ -1,5 +1,5 @@
 # 设计模式
-* 六大原则
+* [六大原则](https://github.com/Ywfy/Design-pattern/blob/master/Principle/README.md)
 * 创建型模式
   * 工厂模式
   * 抽象工厂模式
